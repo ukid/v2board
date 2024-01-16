@@ -18,7 +18,6 @@
     <meta name="theme-color" content="{{$colors[$theme_config['theme_color']]}}">
 
     <title>{{$title}}</title>
-    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700"> -->
     <script>window.routerBase = "/";</script>
     <script>
         window.settings = {
